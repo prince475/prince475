@@ -1,9 +1,9 @@
-!!Lets bend code like #avatar code bender!!
-- 👋 Hi, I’m @prince475
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Lets bend these code elements like Avatar to save the web!!!
+- 👋 Hi, I’m the code bender
+- 👀 Talk to me on anything Software, IoT and AI
+- 🌱 I’m currently learning #moringaSchool#flatironBootcamp
+- 💞️ I’m looking to collaborate on anyproject
+- 📫 How to reach me: princekari475@gmail.com
 
 <!---
 prince475/prince475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
