@@ -1,9 +1,9 @@
-wave Hi, I’m the code bender
-eyes Talk to me on anything Software, IoT and AI
-seedling I’m currently learning #moringaSchool#flatironBootcamp#fullStack DEV
-revolving_hearts I’m looking to collaborate on anyproject
-mailbox How to reach me: princekari475@gmail.com From: 10 July 2020 - To: 06 August 2022
-mailbox How to reach me: princekari475@gmail.com
+Lets bend these code elements like Avatar to save the web!!!
+- 👋 Hi, I’m the code bender
+- 👀 Talk to me on anything Software, IoT and AI
+- 🌱 I’m currently learning #moringaSchool#flatironBootcamp#fullStack DEV
+- 💞️ I’m looking to collaborate on anyproject
+- 📫 How to reach me: princekari475@gmail.com
 
 <!--START_SECTION:waka-->
 
