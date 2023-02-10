@@ -19,7 +19,5 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          API_BASE_URL: https://wakatime.com/@4cc9daec-5f87-4a4e-8eeb-8bd14600138f
-          REPOSITORY: <prince475>/<prince475>
-          
+      
        
