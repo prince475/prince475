@@ -1,3 +1,5 @@
+API_BASE_URL = https://wakatime.com/api
+
 name: Waka Readme
 
 on:
