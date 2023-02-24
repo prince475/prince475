@@ -41,8 +41,11 @@ Linux                    15 hrs 45 mins      ███████████�
 🌆 Daytime                368 commits         ██████████░░░░░░░░░░░░░░░   41.68 % 
 🌃 Evening                174 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 🌙 Night                  62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+---
 
 <!--END_SECTION:waka-->
+
+
 <!---
 prince475/prince475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
