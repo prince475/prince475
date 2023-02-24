@@ -8,6 +8,7 @@ Lets bend these code elements like Avatar to save the web!!!
 
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 ```text
 From: 27 November 2022 - To: 23 February 2023
@@ -48,14 +49,6 @@ Linux                    15 hrs 45 mins      ███████████�
 ```
 
 <!--END_SECTION:waka-->
-<br />
-<br />
-<br />
-<br />
-<br />
-
-  </div>
-
 <!---
 prince475/prince475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
