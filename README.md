@@ -5,30 +5,6 @@ Lets bend these code elements like Avatar to save the web!!!
 - 💞️ I’m looking to collaborate on anyproject
 - 📫 How to reach me: princekari475@gmail.com
 
-
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
-
-ctext
-From: 27 November 2022 - To: 23 February 2023
-
-Total Time: 195 hrs 22 mins
-
-JavaScript   83 hrs 16 mins  ██████████▓░░░░░░░░░░░░░░   42.62 %
-Ruby         49 hrs 29 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-HTML         22 hrs 2 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-CSS          18 hrs 36 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Markdown     12 hrs 16 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-JSON         6 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Other        2 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Lets bend these code elements like Avatar to save the web!!!
-- 👋 Hi, I’m the code bender
-- 👀 Talk to me on anything Software, IoT and AI
-- 🌱 I’m currently learning #moringaSchool#flatironBootcamp#fullStack DEV
-- 💞️ I’m looking to collaborate on anyproject
-- 📫 How to reach me: princekari475@gmail.com
-
 <!--START_SECTION:waka-->
 
 ```text
