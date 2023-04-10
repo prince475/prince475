@@ -3,7 +3,7 @@
  <h4>Welcome to my github profile</h4>
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
----
+
 
 Lets bend these code elements like Avatar to save the web!!!
 - 👋 Hi, I’m the code bender
@@ -11,6 +11,7 @@ Lets bend these code elements like Avatar to save the web!!!
 - 🌱 I’m currently learning #moringaSchool#flatironBootcamp#fullStack DEV
 - 💞️ I’m looking to collaborate on anyproject
 - 📫 How to reach me: princekari475@gmail.com
+
 
 <!--START_SECTION:waka-->
 
