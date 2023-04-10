@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋
+ <h2>Hello Beautiful Human</h2>
 </div>
 
 Lets bend these code elements like Avatar to save the web!!!
@@ -88,11 +88,26 @@ Other        8 hrs 58 mins   ▓░░░░░░░░░░░░░░░░
   
   
 </div>
+---
+### :fire: My Stats :
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prince475&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince475&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img
+  src="https://github.com/prince475/prince475/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 
 
 ---
+<!-- <img src="https://wakatime.com/share/@prince475/5cc708e5-95b3-4e0a-8c57-8017675768ab.svg"/>
 
-
+<img src="https://wakatime.com/share/@prince475/4892a892-7078-430a-a92d-ca694da04c3d.svg"/>
+ -->
+---
 <!---
 prince475/prince475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
