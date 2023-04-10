@@ -1,5 +1,6 @@
-<div align="center">
+<div  id="header" align="center">
  <h2>Hello Beautiful Human</h2>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
 
 Lets bend these code elements like Avatar to save the web!!!
@@ -27,9 +28,6 @@ Other        8 hrs 58 mins   ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
-</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/prince-daniel-83a8aa140/">
@@ -88,8 +86,10 @@ Other        8 hrs 58 mins   ▓░░░░░░░░░░░░░░░░
   
   
 </div>
+
 ---
-### :fire: My Stats :
+
+#### :fire: My Stats :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prince475&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -103,11 +103,16 @@ Other        8 hrs 58 mins   ▓░░░░░░░░░░░░░░░░
 
 
 ---
+
+
 <!-- <img src="https://wakatime.com/share/@prince475/5cc708e5-95b3-4e0a-8c57-8017675768ab.svg"/>
 
 <img src="https://wakatime.com/share/@prince475/4892a892-7078-430a-a92d-ca694da04c3d.svg"/>
  -->
+ 
+ 
 ---
+
 <!---
 prince475/prince475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
