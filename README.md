@@ -5,10 +5,10 @@
 </div>
 
 
-Lets bend these code elements like Avatar to save the web!!!
+Lets bend these code elements like the Avatars we are to save the web!!!
 - 👋 Hi, I’m the code bender
-- 👀 Talk to me on anything Software, IoT and AI
-- 🌱 I’m currently learning #moringaSchool#flatironBootcamp#fullStack DEV
+- 👀 Talk to me on anything Software Development, IoT and AI
+- 🌱 I’m currently learning @Moringa School #moringaSchool#flatironBootcamp#fullStack DEV
 - 💞️ I’m looking to collaborate on anyproject
 - 📫 How to reach me: princekari475@gmail.com
 
