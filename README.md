@@ -1,14 +1,14 @@
 
 <div  id="header" align="center">
  <h2>Hi There! it's Prince!</h2>
- <h4>Welcome to my github profile</h4>
+ <h4>Welcome to my GitHub profile</h4>
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
 
 
-Lets bend these code elements like the Avatars we are to save the web!!!
-- 👋 Hi, I like to call my self the code bender cause why not!
-- 👀 Talk to me on anything Software Development, IoT and AI
+Let's bend these code elements like the Avatars we are to save the web!!!
+- 👋 Hi, I like to call myself the code bender cause why not!
+- 👀 Talk to me on anything Software Development, IoT, and AI
 - 🌱 just finished @Moringa School software Engineering Nano degree #moringaSchool#flatironBootcamp#fullStack DEV
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: princekari475@gmail.com
@@ -17,7 +17,7 @@ Lets bend these code elements like the Avatars we are to save the web!!!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2022 - To: 22 July 2023
+From: 27 November 2022 - To 22 July 2023
 
 Total Time: 502 hrs 16 mins
 
