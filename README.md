@@ -17,12 +17,12 @@ Let's bend these code elements like the Avatars we are to save the web!!!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2022 - To: 26 August 2023
+From: 27 November 2022 - To: 27 August 2023
 
-Total Time: 526 hrs 30 mins
+Total Time: 526 hrs 42 mins
 
-JavaScript   213 hrs 16 mins ██████████░░░░░░░░░░░░░░░   40.51 %
-Ruby         166 hrs 31 mins ████████░░░░░░░░░░░░░░░░░   31.63 %
+JavaScript   213 hrs 28 mins ██████████░░░░░░░░░░░░░░░   40.53 %
+Ruby         166 hrs 31 mins ████████░░░░░░░░░░░░░░░░░   31.61 %
 Markdown     36 hrs 43 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
 CSS          32 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 HTML         23 hrs 48 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
