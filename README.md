@@ -7,7 +7,7 @@
 
 
 Let's bend these code elements like the Avatars we are to save the web!!!
-- 👋 Hi, I like to call myself the code bender cause why not!
+- 👋 Hi, I'd like to call myself the code bender cause why not!
 - 👀 Talk to me on anything Software Development, IoT, and AI
 - 🌱 just finished @Moringa School software Engineering Nano degree #moringaSchool#flatironBootcamp#fullStack DEV
 - 💞️ I’m looking to collaborate on projects
