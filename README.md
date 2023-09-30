@@ -17,7 +17,7 @@ Let's bend these code elements like the Avatars we are to save the web!!!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2022 - To: 27 September 2023
+From: 27 November 2022 - To: 28 September 2023
 
 Total Time: 565 hrs 40 mins
 
