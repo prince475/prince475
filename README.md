@@ -17,18 +17,18 @@ Let's bend these code elements like the Avatars we are to save the web!!!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2022 - To: 05 November 2023
+From: 27 November 2022 - To: 06 November 2023
 
-Total Time: 573 hrs 8 mins
+Total Time: 575 hrs 10 mins
 
-JavaScript       250 hrs 11 mins ███████████░░░░░░░░░░░░░░   43.65 %
-Ruby             166 hrs 31 mins ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-Markdown         36 hrs 54 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-CSS              34 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-HTML             24 hrs 28 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-C#               11 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-JSON             11 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Other            10 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript       252 hrs 10 mins ███████████░░░░░░░░░░░░░░   43.84 %
+Ruby             166 hrs 31 mins ███████▒░░░░░░░░░░░░░░░░░   28.95 %
+Markdown         36 hrs 54 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+CSS              34 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+HTML             24 hrs 28 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+C#               11 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+JSON             11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other            10 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 Kotlin           6 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 TypeScript       5 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
