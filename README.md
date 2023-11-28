@@ -7,7 +7,7 @@
 
 
 Let's bend these code elements like the Avatars we are to save the web!!!
-- 👋 Hi, I'd like to refer to myself as the code bender, cause again, why not!
+- 👋 Hi from the code bender, cause again, why not!
 - 👀 Let's have a conversation concerning Software Development, IoT, AI, Android Kotlin and Technical Writing. 
 - 🌱 just finished @Moringa School software Engineering Nano degree #moringaSchool#flatironBootcamp#fullStack DEV
 - 💞️ I’m looking to collaborate on projects
