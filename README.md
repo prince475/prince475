@@ -1,17 +1,24 @@
 
-<div  id="header" align="center">
- <h2>Hi There! it's Prince!</h2>
- <h4>Welcome to my GitHub!</h4>
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
+<div id="header" align="center">
+ <h1>Hi There! 👋 I'm Prince Daniel</h1>
+ <h3>Welcome to my GitHub! 🚀</h3>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="150" alt="Code Bender"/>
 </div>
 
+---
 
-Let's bend these code elements like the Avatars we are to save the web!!
-- 👋 Hi from the code bender, cause again, why not!
-- 👀 Let's have a conversation concerning Software Development, IoT, AI, Android Kotlin and Technical Writing. 
-- 🌱 just finished @Moringa School software Engineering Nano degree #moringaSchool#flatironBootcamp#fullStack DEV
-- 💞️ I’m looking forward to collaborating on projects!
-- 📫 How to reach me: princekari475@gmail.com
+### 🌟 About Me
+
+- 🛠️ **Code Bender Extraordinaire** – Always looking to create, collaborate, and innovate.
+- 💡 **Passionate About:** Software Development, IoT, AI, Android Kotlin, and Technical Writing. 
+- 🎓 **Education:** Recently completed the Software Engineering Nano Degree at **Moringa School** in partnership with **Flatiron Bootcamp**.
+- 🤝 **Let's Collaborate On:** Cutting-edge projects and solutions for real-world problems.
+- 📬 **Reach Me:** princekari475@gmail.com
+
+---
+
+### 🌐 Fun Fact:
+_"Let's bend these code elements like Avatars and save the web!"_
 
 
 <!--START_SECTION:waka-->
