@@ -11,7 +11,6 @@
 
 - 🛠️ **Code Bender Extraordinaire** – Always looking to create, collaborate, and innovate.
 - 💡 **Passionate About:** Software Development, IoT, AI, Android Kotlin, and Technical Writing. 
-- 🎓 **Education:** Recently completed the Software Engineering Nano Degree at **Moringa School** in partnership with **Flatiron Bootcamp**.
 - 🤝 **Let's Collaborate On:** Cutting-edge projects and solutions for real-world problems.
 - 📬 **Reach Me:** princekari475@gmail.com
 
