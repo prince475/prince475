@@ -177,8 +177,9 @@ Other             10 hrs 50 mins  ▒░░░░░░░░░░░░░░�
 
 ### ✨ Fun Facts:
 
-- 🏎️ Big fan of Formula 1 and the legend Jim Clark.  
-- 💡 Passionate about solving challenges with tech-driven innovations.  
+- 🏎 Formula 1 fanatic. (Jim Clark is the GOAT — prove me wrong! 😉)
+- 🚛 Exploring the idea of a car import and showroom business.
+- 📖 Active in Ruiru RG, a Bible study fellowship that nurtures both spirit and community. 
 
 ---
 
