@@ -1,23 +1,61 @@
 
-<div id="header" align="center">
- <h1>Hi There! 👋 I'm Prince Daniel</h1>
- <h3>Welcome to my GitHub! 🚀</h3>
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="150" alt="Code Bender"/>
-</div>
+* Hi there! 👋 I'm Prince Daniel! 👋🤓
+  
+* I'm a passionate **Software Engineer** who enjoys solving real-world problems with innovative solutions.
+* With experience in **Flutter**, **React**, **Ruby on Rails**, and a growing interest in **AI-driven systems**,
+  I aim to create impactful tools that improve lives.
 
----
+[//]: # ( <a href="https://princedaniel.vercel.app/" style="margin-right:.5%; margin-top=.5%;">)
 
-### 🌟 About Me
+[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince475&layout=compact"  alt="xyz"/>)
 
-- 🛠️ **Code Bender Extraordinaire** – Always looking to create, collaborate, and innovate.
-- 💡 **Passionate About:** Software Development, IoT, AI, Android Kotlin, and Technical Writing. 
-- 🤝 **Let's Collaborate On:** Cutting-edge projects and solutions for real-world problems.
-- 📬 **Reach Me:** princekari475@gmail.com
+[//]: # (</a>)
 
----
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
-### 🌐 Fun Fact:
-_"Let's bend these code elements like Avatars and save the web!"_
+**I'm a Night 🎑** 
+
+```text
+🌞 Morning                3237 commits        ████████░░░░░░░░░░░░░░░░░   31.00 % 
+🌆 Daytime                5231 commits        █████████████░░░░░░░░░░░░   50.10 % 
+🌃 Evening                1351 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+🌙 Night                  622 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+Kotlin                   6 hrs 18 mins       ███████████████████████░░   91.65 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+
+🔥 Editors: 
+Android Studio           6 hrs 53 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    6 hrs 53 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               52 repos            ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+Kotlin                   51 repos            ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+Python                   16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+HTML                     12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+```
+
+
+
+
+ Last Updated on 07/01/2025 18:46:54 UTC
+<!--END_SECTION:waka-->
 
 
 <!--START_SECTION:waka-->
