@@ -167,11 +167,6 @@ Other             10 hrs 50 mins  ▒░░░░░░░░░░░░░░�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince475&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img
-  src="https://github.com/prince475/prince475/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-
 
 ---
 
