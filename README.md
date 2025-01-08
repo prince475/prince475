@@ -5,13 +5,14 @@
 * With experience in **Flutter**, **React**, **Ruby on Rails**, and a growing interest in **AI-driven systems**,
   I aim to create impactful tools that improve lives.
 
+
 ### 🌟 What I’m Currently Exploring:
 
 - **AI Solutions**: Leveraging Azure Vision for smart monitoring and analytics.  
 - **Tech Startups**: Developing ideas for user management systems, and transportation monitoring tools.  
 - **Mobile Development**: Crafting seamless user experiences with Flutter and Material 3.  
 
----
+
 
 [//]: # ( <a href="https://princedaniel.vercel.app/" style="margin-right:.5%; margin-top=.5%;">)
 
@@ -95,7 +96,6 @@ Other             10 hrs 50 mins  ▒░░░░░░░░░░░░░░�
 
 ---
 
----
 #### Reach Out to Me via
 
 <div id="badges">
