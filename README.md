@@ -5,6 +5,14 @@
 * With experience in **Flutter**, **React**, **Ruby on Rails**, and a growing interest in **AI-driven systems**,
   I aim to create impactful tools that improve lives.
 
+### 🌟 What I’m Currently Exploring:
+
+- **AI Solutions**: Leveraging Azure Vision for smart monitoring and analytics.  
+- **Tech Startups**: Developing ideas for user management systems, and transportation monitoring tools.  
+- **Mobile Development**: Crafting seamless user experiences with Flutter and Material 3.  
+
+---
+
 [//]: # ( <a href="https://princedaniel.vercel.app/" style="margin-right:.5%; margin-top=.5%;">)
 
 [//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince475&layout=compact"  alt="xyz"/>)
@@ -12,15 +20,15 @@
 [//]: # (</a>)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🎑** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3237 commits        ████████░░░░░░░░░░░░░░░░░   31.00 % 
-🌆 Daytime                5231 commits        █████████████░░░░░░░░░░░░   50.10 % 
-🌃 Evening                1351 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-🌙 Night                  622 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+🌞 Morning                                   ███░░░░░░░░░░░░░░░░░░░   20% 
+🌆 Daytime                                   ███████░░░░░░░░░░░░░░░   35% 
+🌃 Evening                                   ████████░░░░░░░░░░░░░░   40% 
+🌙 Night                                     ██░░░░░░░░░░░░░░░░░░░░   5% 
 ```
 
 
@@ -35,6 +43,7 @@ JSON                     21 mins             █░░░░░░░░░░�
 Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
+VS Code                                      █████████████████████████   100%
 Android Studio           6 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
@@ -48,7 +57,6 @@ JavaScript               52 repos            ███████░░░░�
 Kotlin                   51 repos            ███████░░░░░░░░░░░░░░░░░░   29.14 % 
 Python                   16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 HTML                     12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 
@@ -78,6 +86,14 @@ Other             10 hrs 50 mins  ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+### 📚 Knowledge Stack:
+
+- **Languages**: Dart, JavaScript, Kotlin, Python, Ruby.  
+- **Frameworks & Tools**: Flutter, React, Ruby on Rails, Azure DevOps.  
+- **Specialties**: Full-stack development, AI solutions, and mobile-first designs.  
+
+---
 
 ---
 #### Reach Out to Me via
@@ -154,6 +170,13 @@ Other             10 hrs 50 mins  ▒░░░░░░░░░░░░░░�
   alt="Alternative Text"
 />
 
+
+---
+
+### ✨ Fun Facts:
+
+- 🏎️ Big fan of Formula 1 and the legend Jim Clark.  
+- 💡 Passionate about solving challenges with tech-driven innovations.  
 
 ---
 
